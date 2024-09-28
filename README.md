@@ -1,1 +1,1 @@
-Patika eğitimleri kapsamında yaptığım ilk web sayfası
+Patika eğitimleri kapsamında yaptığım ilk web sayfası ve üzerinde yaptığım değişikler.
